@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710889777 source:c:\users\alumno\desktop\tp funciones con variables simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

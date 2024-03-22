@@ -6,7 +6,7 @@
 	<stdio.h>
 	<malloc.h>
 
-1710892846 source:c:\users\alumno\desktop\tp funciones con pilas\main.c
+315543600 source:c:\users\alumno\desktop\tp funciones con pilas\main.c
 	<stdio.h>
 	<stdlib.h>
 	"pila.h"
@@ -21,18 +21,5 @@
 	<malloc.h>
 
 1710979800 source:c:\users\franc\onedrive\escritorio\tp funciones con pilas\pila.c
-	"pila.h"
-
-1711066469 source:c:\users\alumno\desktop\dshnt-master\programacioni\tp funciones con pilas\main.c
-	<stdio.h>
-	<stdlib.h>
-	"pila.h"
-	<math.h>
-
-1710978432 c:\users\alumno\desktop\dshnt-master\programacioni\tp funciones con pilas\pila.h
-	<stdio.h>
-	<malloc.h>
-
-1710978432 source:c:\users\alumno\desktop\dshnt-master\programacioni\tp funciones con pilas\pila.c
 	"pila.h"
 
